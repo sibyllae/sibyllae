@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ming (Xun-Min Zhong) 👋</h1>
+<h1 align="center">Hi there, I'm Ming👋</h1>
 <h3 align="center">Senior Software Engineer | Backend & System Architecture | Ex-Esports Player 🎮</h3>
 
 <p align="center">
