@@ -44,11 +44,3 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
-
-### 🚀 Featured Side Projects
-- 🍽️ **[饗賓餐旅線上訂位](https://reurl.cc/EVj3bg)**: An automated booking script/bot to help users secure restaurant reservations seamlessly without manual refreshing.
-- 🎮 **[奧丁:神叛抽卡模擬器](https://reurl.cc/WDA659)**: A web-based gacha and equipment upgrade simulator for the game Odin: Valhalla Rising.
-- ⚔️ **[暗黑破壞神二遊戲攻略網](https://ppt.cc/feVW2x)**: A comprehensive guide platform detailing Diablo II item combinations and character build strategies.
-
----
